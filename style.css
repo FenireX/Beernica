@@ -28,7 +28,7 @@ header{
 	padding: 30px 170px;
 }
 #home{
-    width: 100%;
+	 width: 100%;
     min-height: 100vh;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -38,7 +38,7 @@ header{
     position: relative;
 }
 .ludilo{
-    position: absolute;
+	 position: absolute;
     top: 0;
     left: 0;
     width: 100%;
