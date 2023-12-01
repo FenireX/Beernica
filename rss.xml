@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>Beernica/title>
+  <title>Beernica</title>
   <link>https://fenirex.github.io/Beernica/index.html</link>
   <description>Best drinks</description>
   <item>
-    <title>Beernica Menu</title>
-    <link>https://fenirex.github.io/Beernica/menu.html<link>
-    <description>Nova obavestenja</description>
+    <title>Beernica menu</title>
+    <link>https://fenirex.github.io/Beernica/menu.html</link>
+    <description>New drinks everyday</description>
   </item>
   <item>
     <title>Beernica contact</title>
     <link>https://fenirex.github.io/Beernica/contact.html</link>
-    <description>Najnovije cene</description>
+    <description>If you want to contact us</description>
   </item>
 </channel>
 
