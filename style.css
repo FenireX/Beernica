@@ -347,5 +347,60 @@ section{
 #registracija{
 	flex-direction:column;
     color:#1e1c2a;
+ 
 }
 
+.moja{
+	 padding-left:20%;
+	 padding-top:10%;
+     flex: 1;
+}
+
+#mojaja{
+		 max-width: 40%;  
+        height: auto;  
+		border:3px solid #1e1c2a;
+		border-radius:0.5rem;
+		display: block;  
+        margin-right: 100px;
+}
+.heading2{
+	text-align:center;
+	padding-top:9%;
+}
+
+.heading2 span{
+		color: #1e1c2a;
+	font-weight: 600;
+}
+.heading2 h2{
+	font-size: 3.25rem;
+}
+ .biografija{
+	  flex: 1;  
+    margin-left: -500px;
+    padding-top:60px;
+ }
+  .region {
+        display: flex;
+        align-items: center;  
+		padding-right:100px;
+    }
+	
+.biografija h2{
+	font-size:3.5rem;
+    position: relative;
+ 
+	 
+ }
+.biografija h4{
+	font-size:2.0rem;
+    
+ }
+ .dadada{
+ margin-top:10%;
+ line-height:1.5;
+ 
+ 
+ }
+	 
